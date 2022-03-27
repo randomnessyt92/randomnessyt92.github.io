@@ -6,9 +6,13 @@ Let's make a game!
 	updated:27/03/2022
 	version:0.0.1
 Settings
-	background:https://randomnessyt92.github.io/pc_clicker/bg.png
+	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
 Buttons
 	*hack
 		name:Hack
 		desc:Click to get a PC
 		on click:yield 1 PC
+Resources
+	*PC
+		name:PC
+		desc:This is how many PCs you have. PCs are a currency (yes, thats right.)
