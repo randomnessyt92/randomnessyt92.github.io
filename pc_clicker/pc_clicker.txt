@@ -7,7 +7,7 @@ Let's make a game!
 	version:0.0.1
 Settings
 	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
-	tylesheet:stuff/bigBlue.css
+	stylesheet:stuff/bigBlue.css
 Buttons
 	*hack
 		name:Hack
