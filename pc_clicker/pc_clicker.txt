@@ -7,6 +7,7 @@ Let's make a game!
 	version:0.0.1
 Settings
 	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
+	tylesheet:stuff/bigBlue.css
 Buttons
 	*hack
 		name:Hack
@@ -14,5 +15,5 @@ Buttons
 		on click:yield 1 PC
 Resources
 	*PC
-		name:PC
+		name:PCs
 		desc:This is how many PCs you have. PCs are a currency (yes, thats right.)
