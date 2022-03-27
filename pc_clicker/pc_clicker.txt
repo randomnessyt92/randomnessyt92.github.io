@@ -13,6 +13,7 @@ Buttons
 		name:Hack
 		desc:Click to get a PC
 		on click:yield 1 PC
+		class:bigButton
 Resources
 	*PC
 		name:PCs
