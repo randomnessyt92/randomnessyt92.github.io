@@ -14,6 +14,7 @@ Buttons
 		desc:Click to get a PC
 		on click:yield 1 PC
 		class:bigButton
+		icon:https://randomnessyt92.github.io/pc_clicker/pc.png
 Resources
 	*PC
 		name:PCs
