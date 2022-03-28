@@ -14,7 +14,7 @@ Buttons
 		desc:Click to get a PC
 		on click:yield 1 PC
 		class:bigButton hasFlares
-		icon:https://randomnessyt92.github.io/pc_clicker/pc.png
+		icon:stuff/bunny.png
 		no text
 		icon class:shadowed
 Resources
