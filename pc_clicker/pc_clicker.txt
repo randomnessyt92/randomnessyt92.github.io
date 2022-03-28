@@ -25,3 +25,10 @@ Resources
 		icon:icons[0,0]
 		class:noBackground
 		show earned
+Upgrades
+	*terminal
+		name:Terminal
+		desc:All the hackers in town have this!<//><b>Effect:</b><.>+1 PC per click
+		passive:increase yield of hack by 1
+		cost:10 PC
+		icon:icons[0,1]
