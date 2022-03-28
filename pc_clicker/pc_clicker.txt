@@ -31,4 +31,5 @@ Upgrades
 		desc:All the hackers in town have this!<//><b>Effect:</b><.>+1 PC per click
 		passive:increase yield of hack by 1
 		cost:10 PC
+		req:5 PC:earned
 		icon:icons[0,1]
