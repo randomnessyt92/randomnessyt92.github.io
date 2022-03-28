@@ -38,7 +38,9 @@ Achievements
 		name:Off to a good start!
 		desc:You got your first PC.
 		req:1 PC
+		icon:icons[0,0]
 	*hurtinyet
 		name:Your fingers hurtin'?
 		desc:Click the Hack button 100 times
 		req:100 hack clicks
+		icon:icons[0,1]
