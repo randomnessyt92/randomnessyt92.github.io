@@ -16,6 +16,8 @@ Buttons
 		class:bigButton
 		icon:https://randomnessyt92.github.io/pc_clicker/pc.png
 		no text
+		tooltip origin:bottom
+		tooltip class:red
 Resources
 	*PC
 		name:PCs
