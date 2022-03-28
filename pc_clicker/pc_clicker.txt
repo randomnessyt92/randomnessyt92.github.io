@@ -49,4 +49,5 @@ Buildings
 		name:Hacking Setup
 		desc:Produces 1 PC every 10 secs.
 		on tick:yield 0.1 PC
+		cost:50 PC
 		
