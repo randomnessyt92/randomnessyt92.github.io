@@ -25,6 +25,12 @@ Resources
 		icon:icons[0,0]
 		class:noBackground
 		show earned
+	*gamingPC
+		name:Gaming PCs
+		desc:This is how many Gaming PCs you have. Some stuff require these.
+		icon:icons[0,2]
+		class:noBackground
+		show earned
 Upgrades
 	*terminal
 		name:Terminal
@@ -50,4 +56,10 @@ Buildings
 		desc:Produces 1 PC every 10 secs.
 		on tick:yield 0.1 PC
 		cost:50 PC
+Shinies
+	*ultrahack
+		name:Ultra Hack
+		on click:yield (random(10,100)) gamingPC
+		movement:anywhere fade bounce moveRandom
+		frequency:120
 		
