@@ -60,6 +60,7 @@ Shinies
 	*ultrahack
 		name:Ultra Hack
 		on click:yield (random(10,100)) gamingPC
-		movement:anywhere fade bounce moveRandom
+		movement:anywhere moveRandom
+		icon:https://randomnessyt92.github.io/pc_clicker/ultrahack.png
 		frequency:120
 		
