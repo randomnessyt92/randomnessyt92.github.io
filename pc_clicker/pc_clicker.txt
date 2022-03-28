@@ -34,11 +34,11 @@ Upgrades
 		req:5 PC:earned
 		icon:icons[0,1]
 Achievements
-	*good_start
+	*goodstart
 		name:Off to a good start!
 		desc:You got your first PC.
 		req:1 PC
-	*hurtin_yet
+	*hurtinyet
 		name:Your fingers hurtin'?
 		desc:Click the Hack button 100 times
 		req:100 hack clicks
