@@ -44,3 +44,9 @@ Achievements
 		desc:Click the Hack button 100 times
 		req:100 hack clicks
 		icon:icons[0,1]
+Buildings
+	*hackingsetup
+		name:Hacking Setup
+		desc:Produces 1 PC every 10 secs.
+		on tick:yield 0.1 PC
+		
