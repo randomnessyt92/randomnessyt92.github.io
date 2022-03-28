@@ -8,6 +8,7 @@ Let's make a game!
 Settings
 	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
 	stylesheet:stuff/bigBlue.css
+	spritesheet:icons, 48 by 48, https://randomnessyt92.github.io/pc_clicker/pc_sprites.png
 Buttons
 	*hack
 		name:Hack
@@ -21,3 +22,6 @@ Resources
 	*PC
 		name:PCs
 		desc:This is how many PCs you have. PCs are a currency (yes, thats right.)
+		icon:icons[0,0]
+		class:noBackground
+		show earned
