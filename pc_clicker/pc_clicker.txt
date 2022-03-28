@@ -63,4 +63,7 @@ Shinies
 		movement:anywhere moveRandom
 		icon:https://randomnessyt92.github.io/pc_clicker/ultrahack.png
 		frequency:120
+		no text
+		icon class:shadowed
+		class:bigButton
 		
