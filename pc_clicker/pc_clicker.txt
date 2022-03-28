@@ -8,7 +8,7 @@ Let's make a game!
 Settings
 	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
 	stylesheet:stuff/bigBlue.css
-	spritesheet:icons, 48 by 48, https://randomnessyt92.github.io/pc_clicker/pc_sprites.png
+	spritesheet:icons, 48 by 48, https://randomnessyt92.github.io/pc_clicker/pc_sprites2.png
 Buttons
 	*hack
 		name:Hack
