@@ -6,16 +6,16 @@ Let's make a game!
 	updated:27/03/2022
 	version:0.0.1
 Settings
-	background:https://randomnessyt92.github.io/pc_clicker/bg.jpg
+	background:https://randomnessyt92.github.io/randomnetv1/pc_clicker/bg.jpg
 	stylesheet:stuff/bigBlue.css
-	spritesheet:icons, 48 by 48, https://randomnessyt92.github.io/pc_clicker/pc_sprites2.png
+	spritesheet:icons, 48 by 48, https://randomnessyt92.github.io/randomnetv1/pc_clicker/pc_sprites2.png
 Buttons
 	*hack
 		name:Hack
 		desc:Click to get a PC
 		on click:yield 1 PC
 		class:bigButton hasFlares
-		icon:https://randomnessyt92.github.io/pc_clicker/pc3.png
+		icon:https://randomnessyt92.github.io/randomnetv1/pc_clicker/pc3.png
 		no text
 		icon class:shadowed
 Resources
@@ -61,7 +61,7 @@ Shinies
 		name:Ultra Hack
 		on click:yield (random(10,100)) gamingPC
 		movement:anywhere moveRandom
-		icon:https://randomnessyt92.github.io/pc_clicker/ultrahack.png
+		icon:https://randomnessyt92.github.io/randomnetv1/pc_clicker/ultrahack.png
 		frequency:120
 		no text
 		icon class:shadowed
