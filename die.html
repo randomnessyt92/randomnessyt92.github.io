@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dice Roll</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #dice-roll {
+    margin-top: 50px;
+  }
+</style>
+</head>
+<body>
+<h1>Dice Roll App</h1>
+<label for="range">Choose the range of numbers:</label>
+<input type="number" id="range" min="2" value="6">
+<button onclick="rollDice()">Roll Dice</button>
+<div id="dice-roll"></div>
+
+<script>
+  function rollDice() {
+    const range = parseInt(document.getElementById('range').value);
+    const result = Math.floor(Math.random() * range) + 1;
+    document.getElementById('dice-roll').innerText = `You rolled: ${result}`;
+  }
+</script>
+</body>
+</html>
